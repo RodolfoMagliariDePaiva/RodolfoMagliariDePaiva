@@ -20,7 +20,6 @@
 
 <div data-importer="stats" align="center">
   <img src="https://streak-stats.demolab.com?user=RodolfoMagliariDePaiva&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=30&order=3" height="150" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app/?username=RodolfoMagliariDePaiva&theme=dracula&no-bg=false&no-frame=false&margin-w=8&margin-h=8" height="150" alt="trophy graph" />
 </div>
 
 ###
