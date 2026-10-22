@@ -4,7 +4,7 @@
 
 ###
 
-<h4 data-importer="text" align="center">Professor Universitário de Ciências Exatas | Mestre em Ensino de Ciências e Matemática | Especialista em Estatística Aplicada e em Matemática Orientada a Computação Aplicada | Engenheiro de IA | Consultor e Palestrante</h4>
+<h3 data-importer="text" align="center">Professor Universitário de Ciências Exatas | Mestre em Ensino de Ciências e Matemática | Especialista em Estatística Aplicada e em Matemática Orientada a Computação Aplicada | Engenheiro de IA | Consultor e Palestrante</h4>
 
 ###
 
