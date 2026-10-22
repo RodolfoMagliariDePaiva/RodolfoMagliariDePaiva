@@ -7,30 +7,30 @@
 ###
 
 <div data-importer="techs" align="center">
-  <img src="https://cdn.simpleicons.org/r/276DC3" height="60" alt="r logo"  />
+  <img src="https://cdn.simpleicons.org/r/276DC3" height="60" alt="r logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="60" alt="rstudio logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="60" alt="rstudio logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="60" alt="pycharm logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="60" alt="pycharm logo" />
 </div>
 
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=RodolfoMagliariDePaiva&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=30&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/RodolfoMagliariDePaiva/RodolfoMagliariDePaiva/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://streak-stats.demolab.com?user=RodolfoMagliariDePaiva&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=30&order=3" height="150" alt="streak graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RodolfoMagliariDePaiva&theme=dracula&no-bg=false&no-frame=false&margin-w=8&margin-h=8" height="150" alt="trophy graph" />
 </div>
 
 ###
 
 <div data-importer="socials" align="center">
   <a href="https://www.linkedin.com/in/rodolfompaiva/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
-  <a href="rodolfomagliari@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <a href="mailto:rodolfomagliari@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
 </div>
 
