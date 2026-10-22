@@ -7,13 +7,37 @@
 ###
 
 <div data-importer="techs" align="center">
-  <img src="https://cdn.simpleicons.org/r/276DC3" height="60" alt="r logo" />
+  <!-- Grupo 1: R e RStudio -->
+  <img src="https://cdn.simpleicons.org/r/276DC3" height="32" alt="r logo" />
+  <img width="3" />
+  <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" height="32" alt="rstudio logo" />
+  
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="60" alt="rstudio logo" />
+
+  <!-- Grupo 2: Python e PyCharm -->
+  <img src="https://skillicons.dev/icons?i=py" height="32" alt="python logo" />
+  <img width="3" />
+  <img src="https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=black&labelColor=FCF000" height="32" alt="pycharm logo" />
+
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
+
+  <!-- Grupo 3: Power BI -->
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="32" alt="power bi logo" />
+
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="60" alt="pycharm logo" />
+
+  <!-- Grupo 4: Tableau -->
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="32" alt="tableau logo" />
+
+  <img width="12" />
+
+  <!-- Grupo 5: Looker Studio -->
+  <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" height="32" alt="looker studio logo" />
+
+  <img width="12" />
+
+  <!-- Grupo 6: Excel -->
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="32" alt="excel logo" />
 </div>
 
 ###
