@@ -28,6 +28,12 @@
   <a href="https://www.linkedin.com/in/rodolfompaiva/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
+  <a href="http://lattes.cnpq.br/2675395182125507" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Lattes&logo=bookstack&label=&color=003366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="lattes logo" />
+  </a>
+  <a href="https://orcid.org/0000-0002-9781-4785" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=ORCID&logo=orcid&label=&color=A6CE39&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="orcid logo" />
+  </a>
   <a href="mailto:rodolfomagliari@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
