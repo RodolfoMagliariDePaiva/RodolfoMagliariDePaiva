@@ -1,16 +1,45 @@
-## Hi there 👋
+<h1 data-importer="text" align="center">Olá! Eu sou Rodolfo Magliari de Paiva</h1>
 
-<!--
-**RodolfoMagliariDePaiva/RodolfoMagliariDePaiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h4 data-importer="text" align="center">Professor Universitário de Ciências Exatas | Mestre em Ensino de Ciências e Matemática | Especialista em Estatística Aplicada e em Matemática Orientada a Computação Aplicada | Engenheiro de IA | Consultor e Palestrante</h4>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<div data-importer="techs" align="center">
+  <img src="https://cdn.simpleicons.org/r/276DC3" height="60" alt="r logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="60" alt="rstudio logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="60" alt="pycharm logo"  />
+</div>
+
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=RodolfoMagliariDePaiva&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=30&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/RodolfoMagliariDePaiva/RodolfoMagliariDePaiva/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<div data-importer="socials" align="center">
+  <a href="https://www.linkedin.com/in/rodolfompaiva/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="rodolfomagliari@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RodolfoMagliariDePaiva/RodolfoMagliariDePaiva/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RodolfoMagliariDePaiva/RodolfoMagliariDePaiva/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RodolfoMagliariDePaiva/RodolfoMagliariDePaiva/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+</picture>
+
+###
