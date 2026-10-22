@@ -1,4 +1,6 @@
-<h1 data-importer="text" align="center">Olá! Eu sou Rodolfo Magliari de Paiva</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:0f2027,100:2c5364&height=200&section=header&text=Rodolfo%20Magliari%20de%20Paiva&fontSize=38&fontColor=ffffff&fontAlignY=45&animation=fadeIn" width="100%" alt="Header Rodolfo Magliari" />
+</div>
 
 ###
 
@@ -65,10 +67,12 @@
 
 ###
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RodolfoMagliariDePaiva/RodolfoMagliariDePaiva/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RodolfoMagliariDePaiva/RodolfoMagliariDePaiva/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RodolfoMagliariDePaiva/RodolfoMagliariDePaiva/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-</picture>
+<div align="center">
+  <picture data-importer="pacman">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RodolfoMagliariDePaiva/RodolfoMagliariDePaiva/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RodolfoMagliariDePaiva/RodolfoMagliariDePaiva/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RodolfoMagliariDePaiva/RodolfoMagliariDePaiva/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+  </picture>
+</div>
 
 ###
