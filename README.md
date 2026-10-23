@@ -4,42 +4,90 @@
 
 ###
 
-<h3 data-importer="text" align="center">Professor Universitário de Ciências Exatas | Mestre em Ensino de Ciências e Matemática | Especialista em Estatística Aplicada e em Matemática Orientada a Computação Aplicada | Engenheiro de IA | Consultor e Palestrante</h4>
+<h3 data-importer="text" align="center">Professor Universitário de Ciências Exatas | Mestre em Ensino de Ciências e Matemática | Especialista em Estatística Aplicada e em Matemática Orientada a Computação Aplicada | Engenheiro de IA | Consultor e Palestrante</h3>
 
 ###
 
 <div data-importer="techs" align="center">
   <!-- Grupo 1: R e RStudio -->
-  <img src="https://cdn.simpleicons.org/r/276DC3" height="32" alt="r logo" />
+  <a href="https://www.r-project.org/" target="_blank">
+    <img src="https://cdn.simpleicons.org/r/276DC3" height="32" alt="r logo" />
+  </a>
   <img width="3" />
-  <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" height="32" alt="rstudio logo" />
+  <a href="https://posit.co/products/open-source/rstudio/" target="_blank">
+    <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" height="32" alt="rstudio logo" />
+  </a>
   
   <img width="12" />
 
   <!-- Grupo 2: Python e PyCharm -->
-  <img src="https://skillicons.dev/icons?i=py" height="32" alt="python logo" />
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=py" height="32" alt="python logo" />
+  </a>
   <img width="3" />
-  <img src="https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=black&labelColor=FCF000" height="32" alt="pycharm logo" />
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank">
+    <img src="https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=black&labelColor=FCF000" height="32" alt="pycharm logo" />
+  </a>
 
   <img width="12" />
 
   <!-- Grupo 3: Power BI -->
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="32" alt="power bi logo" />
+  <a href="https://powerbi.microsoft.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="32" alt="power bi logo" />
+  </a>
 
   <img width="12" />
 
   <!-- Grupo 4: Tableau -->
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="32" alt="tableau logo" />
+  <a href="https://www.tableau.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="32" alt="tableau logo" />
+  </a>
 
   <img width="12" />
 
   <!-- Grupo 5: Looker Studio -->
-  <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" height="32" alt="looker studio logo" />
+  <a href="https://lookerstudio.google.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" height="32" alt="looker studio logo" />
+  </a>
 
   <img width="12" />
 
   <!-- Grupo 6: Excel -->
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="32" alt="excel logo" />
+  <a href="https://www.microsoft.com/microsoft-365/excel" target="_blank">
+    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="32" alt="excel logo" />
+  </a>
+</div>
+
+###
+
+<div data-importer="education-tools" align="center">
+  <!-- GeoGebra -->
+  <a href="https://www.geogebra.org/" target="_blank">
+    <img src="https://img.shields.io/badge/GeoGebra-2E3033?style=for-the-badge&logo=geogebra&logoColor=6F63FF" height="32" alt="geogebra logo" />
+  </a>
+  
+  <img width="12" />
+
+  <!-- PhET Interactive Simulations -->
+  <a href="https://phet.colorado.edu/pt/" target="_blank">
+    <img src="https://img.shields.io/badge/PhET_Interactive_Simulations-2CAADF?style=for-the-badge&logo=phet&logoColor=FFDE00" height="32" alt="phet logo" />
+  </a>
+</div>
+
+###
+
+<div data-importer="engineering" align="center">
+  <!-- AutoCAD -->
+  <a href="https://www.autodesk.com/products/autocad/" target="_blank">
+    <img src="https://img.shields.io/badge/AutoCAD-ED1C24?style=for-the-badge&logo=autodesk&logoColor=white" height="32" alt="autocad logo" />
+  </a>
+  
+  <img width="12" />
+
+  <!-- FTool -->
+  <a href="https://www.ftool.com.br/" target="_blank">
+    <img src="https://img.shields.io/badge/FTool-2A388F?style=for-the-badge&logo=structurae&logoColor=white" height="32" alt="ftool logo" />
+  </a>
 </div>
 
 ###
@@ -74,5 +122,3 @@
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RodolfoMagliariDePaiva/RodolfoMagliariDePaiva/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
   </picture>
 </div>
-
-###
