@@ -31,9 +31,13 @@
 
   <img width="12" />
 
-  <!-- Grupo 3: Power BI -->
+<!-- Grupo 3: Power BI e DAX -->
   <a href="https://powerbi.microsoft.com/" target="_blank">
     <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="32" alt="power bi logo" />
+  </a>
+  <img width="3" />
+  <a href="https://learn.microsoft.com/dax/" target="_blank">
+    <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=microsoft&logoColor=black" height="32" alt="dax logo" />
   </a>
 
   <img width="12" />
@@ -49,18 +53,18 @@
   <a href="https://lookerstudio.google.com/" target="_blank">
     <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" height="32" alt="looker studio logo" />
   </a>
-
-  <img width="12" />
-
-  <!-- Grupo 6: Excel -->
-  <a href="https://www.microsoft.com/microsoft-365/excel" target="_blank">
-    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="32" alt="excel logo" />
-  </a>
 </div>
 
 ###
 
 <div data-importer="education-tools" align="center">
+  <!-- Excel -->
+  <a href="https://www.microsoft.com/microsoft-365/excel" target="_blank">
+    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="32" alt="excel logo" />
+  </a>
+
+  <img width="12" />
+
   <!-- GeoGebra -->
   <a href="https://www.geogebra.org/" target="_blank">
     <img src="https://img.shields.io/badge/GeoGebra-2E3033?style=for-the-badge&logo=geogebra&logoColor=6F63FF" height="32" alt="geogebra logo" />
