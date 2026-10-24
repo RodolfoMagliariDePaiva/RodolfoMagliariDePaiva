@@ -31,13 +31,13 @@
 
   <img width="12" />
 
-<!-- Grupo 3: Power BI e DAX -->
-  <a href="https://powerbi.microsoft.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="32" alt="power bi logo" />
+  <!-- Grupo 3: DAX e Power BI -->
+  <a href="https://learn.microsoft.com/dax/" target="_blank">
+    <img src="https://img.shields.io/badge/DAX-212121?style=for-the-badge&logo=microsoftanalysisservices&logoColor=F2C811" height="32" alt="dax logo" />
   </a>
   <img width="3" />
-  <a href="https://learn.microsoft.com/dax/" target="_blank">
-    <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=microsoft&logoColor=black" height="32" alt="dax logo" />
+  <a href="https://powerbi.microsoft.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="32" alt="power bi logo" />
   </a>
 
   <img width="12" />
@@ -94,35 +94,34 @@
   </a>
 </div>
 
-###
+<br><br>
 
 <div data-importer="stats" align="center">
   <img src="https://streak-stats.demolab.com?user=RodolfoMagliariDePaiva&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=30&order=3" height="150" alt="streak graph" />
 </div>
 
-###
+<br><br>
 
 <div data-importer="socials" align="center">
   <a href="https://www.linkedin.com/in/rodolfompaiva/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo" />
   </a>
   <a href="http://lattes.cnpq.br/2675395182125507" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Lattes&logo=bookstack&label=&color=003366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="lattes logo" />
+    <img src="https://img.shields.io/static/v1?message=Lattes&logo=bookstack&label=&color=003366&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="lattes logo" />
   </a>
   <a href="https://orcid.org/0000-0002-9781-4785" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=ORCID&logo=orcid&label=&color=A6CE39&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="orcid logo" />
+    <img src="https://img.shields.io/static/v1?message=ORCID&logo=orcid&label=&color=A6CE39&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="orcid logo" />
   </a>
-  <a href="mailto:rodolfomagliari@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+  <a href="https://unifesp.academia.edu/RodolfoMagliaridePaiva?from_navbar=true" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Academia.edu&logo=academia&label=&color=212121&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="academia.edu logo" />
+  </a>
+  <a href="mailto:rmp.solucoesexatas@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="gmail logo" />
   </a>
 </div>
 
-###
+<br><br>
 
 <div align="center">
-  <picture data-importer="pacman">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RodolfoMagliariDePaiva/RodolfoMagliariDePaiva/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RodolfoMagliariDePaiva/RodolfoMagliariDePaiva/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RodolfoMagliariDePaiva/RodolfoMagliariDePaiva/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-  </picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:0f2027,100:2c5364&height=120&section=footer&flip=true&animation=fadeIn" width="100%" alt="Footer Wave" />
 </div>
